@@ -1,0 +1,7 @@
+body {
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(187, 178, 178);
+ grid-template-columns: repeat(3);
+}
+

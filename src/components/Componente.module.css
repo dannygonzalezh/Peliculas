@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+    margin: 3rem;
+    text-shadow: 2px 2px 5px red;
+    font-size: 60px;
+    color: white;
+}
+.main {
+    grid-template-columns: repeat(3);
+}
